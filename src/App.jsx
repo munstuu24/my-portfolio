@@ -12,7 +12,7 @@ import "./App.css";
 
 // CHANGE THESE TO YOUR PERSONAL DETAILS
 const profile = {
-  name: "Your Name",
+  name: "munachi",
   role: "Frontend Developer",
   email: "you@example.com",
   github: "https://github.com/",
